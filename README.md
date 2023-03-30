@@ -1,1 +1,19 @@
-# aboutme
+## 💁‍♀️ About Me:
+My name is Jenny (she/her/hers), and I am a creative and resourceful software engineer seeking a role in full stack web development! I am a results-oriented problem solver who thrives in collaborative team environments. I have an eye for catching sneaky bugs and a mindset for logical problem solving.
+
+My previous experiences have mainly been with in JavaScript and Angular on the frontend, and Java, Spring Boot and MySQL databases on the backend. I am curious about emerging technologies and I never shy away from learning new skills. In my free time, I like to hike and ski, read books and play board games with friends!
+
+## 💻 Technical Skills:
+
+| Type | Technologies |
+| --- | --- |
+| Frontend | <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=000000"> <img src="https://img.shields.io/badge/-TypeScript-3078c6?style=flat&logo=typescript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Angular-bd052d?style=flat&logo=angular&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">  <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> |
+| Backend | <img src="https://img.shields.io/badge/-Java-659ad2?style=flat&logo=jdk&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Spring-32a852?style=flat&logo=spring&logoColor=ffffff">  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=node-js&logoColor=white"> <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=046089"> <img src="https://img.shields.io/badge/-Hibernate-ab976a?style=flat&logo=hibernate&logoColor=595858"> |
+| Developer Tools | <img src="https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/-Amazon%20Web%20Services-f69500?style=flat&logo=amazon&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Docker-0a97e5?style=flat&logo=docker&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Kubernetes-3069dd?style=flat&logo=kubernetes&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-yarn-2c8ab5?style=flat&logo=yarn&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-npm-c43635?style=flat&logo=npm&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Agile-000000?style=flat&logo=agile&logoColor=FFFFFF"> |
+Current Learning | <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Mocha-896546?style=flat&logo=mocha&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Chai-9e4841?style=flat&logo=chai&logoColor=FFFFFF">|
+## 📈 Github Stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jennyjryoo&show_icons=true&hide_border=true&theme=radical" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennyjryoo&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
+
+## 💬 How to reach me:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jennyjryoo/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jennyjryoo@gmail.com)](mailto:jennyjryoo@gmail.com)
